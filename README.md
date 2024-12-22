@@ -1,4 +1,4 @@
-# myapp
+# OzoTec BMS Project
 
 A new Flutter project.
 
