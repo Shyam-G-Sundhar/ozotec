@@ -1,4 +1,4 @@
-# OzoTec BMS Project
+# OzoTec BMS Project (Sample)
 
 A new Flutter project.
 
